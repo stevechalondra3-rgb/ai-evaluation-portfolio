@@ -1,48 +1,70 @@
-# LLM Response Evaluation
+# AI Evaluation & Data Portfolio
 
-## Overview
+Welcome to my portfolio. This repository showcases practical work in AI evaluation, LLM quality assurance, data annotation, image evaluation, and Python-based data automation.
 
-This project demonstrates a structured approach to evaluating
-AI-generated responses.
+## About Me
 
-## Evaluation Criteria
+I specialize in reviewing and evaluating AI-generated content, identifying quality and reasoning issues, applying structured evaluation criteria, and working with data annotation and quality assurance workflows.
 
-Responses are assessed using the following criteria:
+I also have experience with Python, web scraping, data cleaning, validation, and automation.
 
-- Accuracy
-- Relevance
-- Completeness
-- Instruction-following
-- Clarity
-- Reasoning quality
-- Factual consistency
+## Core Skills
 
-## Evaluation Process
+### AI & LLM Evaluation
 
-1. Review the user prompt.
-2. Analyze the AI response.
-3. Identify factual or reasoning issues.
-4. Compare the response against evaluation criteria.
-5. Assign appropriate labels.
-6. Document the reasoning behind the evaluation.
+* LLM response evaluation
+* AI quality assurance
+* Prompt testing
+* Adversarial testing
+* Fact-checking
+* Reasoning analysis
+* Edge-case identification
+* Evaluation rubric development
 
-## Example
+### Data & Annotation
 
-### Prompt
+* Data annotation
+* Dataset quality assurance
+* Image evaluation
+* Data labeling
+* Data validation
+* Data cleaning
+* CSV/JSON processing
 
-Explain the difference between supervised and unsupervised learning.
+### Programming & Automation
 
-### Evaluation
+* Python
+* Pandas
+* NumPy
+* BeautifulSoup
+* Selenium
+* Scrapy
+* Playwright
+* API integration
+* Web data extraction
 
-The response is reviewed for:
+## Featured Projects
 
-- Technical accuracy
-- Coverage of key concepts
-- Clear explanation
-- Relevant examples
-- Absence of unsupported claims
+| Project                                                 | Description                                          | Skills                |
+| ------------------------------------------------------- | ---------------------------------------------------- | --------------------- |
+| [LLM Response Evaluation](./01-llm-response-evaluation) | Structured evaluation of AI-generated responses      | LLM QA, Evaluation    |
+| [Prompt Testing](./02-prompt-testing)                   | Testing AI behavior using different prompt types     | Prompt Testing, QA    |
+| [AI Image Evaluation](./03-image-quality-evaluation)    | Evaluation of AI-generated images                    | Visual QA, Annotation |
+| [Data Cleaning with Python](./04-data-cleaning-python)  | Cleaning and validating structured datasets          | Python, Pandas        |
+| [Web Scraping](./05-web-scraping)                       | Collecting and preparing publicly available web data | Python, Scraping      |
 
-## Skills Demonstrated
+## Tools
 
-LLM Evaluation · AI QA · Rubric Design · Fact-Checking ·
-Response Analysis
+Python · Pandas · NumPy · BeautifulSoup · Selenium · Scrapy · Playwright · Apify · Labelbox · Scale AI · CVAT · OpenRouter · GitHub
+
+## Portfolio Goal
+
+This portfolio demonstrates practical skills relevant to AI training, LLM evaluation, AI quality assurance, data annotation, data quality, and automation roles.
+
+## Contact
+
+GitHub: [Your GitHub Profile]
+
+LinkedIn: 
+
+Email:stevechalondra3@gmail.com
